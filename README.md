@@ -7,7 +7,7 @@ IoT and hardware design.
 
 ## My stuff
 
-I do some open source development. Here are developed some Go libs I developed:
+I do some open source development. Here are some Go libs I developed:
 
 | Where                                                                           | What                                                                                                |
 |---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
