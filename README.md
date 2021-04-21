@@ -2,7 +2,7 @@
 
 Hi, I'm Björn. Also known as Kernle 32DLL, or nowadays mostly just Kernle. Yes, with le. I am not the Linux kernel.
 
-I'm a German software developer. I do mostly web development, but I also occasionally dip my feet into mobile apps,
+I'm a German software developer. I mostly do web development, but I occasionally dip my feet into mobile apps,
 IoT and hardware design.
 
 ## My stuff
