@@ -12,6 +12,7 @@ I do some open source development. Here are some Go stuff I developed:
 | Where                                                                           | What                                                                                                |
 |---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | [emissione-go](https://github.com/kernle32dll/emissione-go)                     | Map client accepted content types to individual output writers                                      |
+| [keybox-go](https://github.com/kernle32dll/keybox-go)                           | Go toolkit to interact with private/public keys                                                       |
 | [pooler-go](https://github.com/kernle32dll/pooler-go)                           | Making object pooling in middlewares a breeze                                                       |
 | [jwtcache-go](https://github.com/kernle32dll/jwtcache-go)                       | Simple implementation of an JWT cache                                                               |
 | [httpbulk-go](https://github.com/kernle32dll/httpbulk-go)                       | A small library for wrapping async http request handling                                            |
